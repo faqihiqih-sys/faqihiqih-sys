@@ -50,6 +50,7 @@ I enjoy turning ideas into functional, clean, and useful applications.
 
 ## 🔷 Microsoft & Office
 
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-EA3500?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
