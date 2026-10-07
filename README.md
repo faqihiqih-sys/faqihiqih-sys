@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Faqih
 
-### 💻 Web Developer | IT Support | Informatics Graduate
-
 I'm an Informatics graduate with a passion for building web applications, managing information systems, solving technical problems, and creating digital solutions.
 
 I enjoy turning ideas into functional, clean, and useful applications.
