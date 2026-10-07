@@ -43,13 +43,17 @@ I enjoy turning ideas into functional, clean, and useful applications.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-### 🎨 Design
+## 🎨 Design
 
-<img src="https://skillicons.dev/icons?i=ps,canva" height="40">
+![Photoshop](https://skillicons.dev/icons?i=photoshop)
+![Canva](https://skillicons.dev/icons?i=canva)
 
-### 🔷 Microsoft & Office
+## 🔷 Microsoft & Office
 
-<img src="https://skillicons.dev/icons?i=excel,word,powerpoint" height="40">
+![Excel](https://skillicons.dev/icons?i=excel)
+![Word](https://skillicons.dev/icons?i=word)
+
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 ## 📚 Currently Learning
 
