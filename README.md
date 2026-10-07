@@ -45,14 +45,13 @@ I enjoy turning ideas into functional, clean, and useful applications.
 
 ## 🎨 Design
 
-![Photoshop](https://skillicons.dev/icons?i=photoshop)
-![Canva](https://skillicons.dev/icons?i=canva)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## 🔷 Microsoft & Office
 
-![Excel](https://skillicons.dev/icons?i=excel)
-![Word](https://skillicons.dev/icons?i=word)
-
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 ## 📚 Currently Learning
